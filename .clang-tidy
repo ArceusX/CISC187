@@ -1,0 +1,18 @@
+---
+Checks: >
+  bugprone-*,
+  clang-analyzer-*,
+  clang-diagnostix-*,
+  -clang-diagnostic-unused-command-line-argument,
+  cert-*,
+  cppcoreguidelines-*,
+  -cppcoreguidelines-pro-bounds-pointer-arithmetic,
+  -cppcoreguidelines-owning-memory,
+  modernize-*,
+  -modernize-use-trailing-return-type,
+  performance-*,
+  readability-*,
+  -readability-uppercase-literal-suffix
+WarningsAsErrors: ''
+HeaderFilterRegex: '.*'
+FormatStyle:     none

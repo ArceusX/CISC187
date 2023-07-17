@@ -1,0 +1,5 @@
+Q Is it bigger than a breadbox?
+Q Is it fun?
+A Cat
+A Programmer
+A Mouse
