@@ -1,2 +1,2 @@
-CISC 187 (Data Structures in C++)
+Coursework: Data Structures in C++
 
